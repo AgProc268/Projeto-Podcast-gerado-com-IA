@@ -7,19 +7,18 @@
 
 Canva – Prompt de Comando – Geração de Imagens
 
-capa-artistica.png
-
-capa-realista.jpg
+Essas capas foram feitas no Canva. A artística traz magia e tecnologia, cheia de elementos flutuantes e brilho.
+A realista mostra a podcaster confiante, cercada por hologramas e códigos, pronta para inspirar quem está começando.
 
 Bing – Geração de Imagens com Bing
 
-Capa Realista Bing.jpeg
-
-capa bing.jpeg
+Usei o Bing para criar imagens que reforçam a atmosfera nerd e tecnológica do podcast.
+Ficaram mais criativas e complementam o estilo visual que eu queria passar.
 
 🤖 Roteiros e Nomes
 
-Roteiro de Podcast sobre IA.txt
+Todo o roteiro e os nomes foram gerados com o ChatGPT.
+Eu brinquei bastante com prompts detalhados, misturando magia e tecnologia, para que ficasse motivador e inspirador.
 
 🪄 Como eu fiz tudo
 
@@ -33,20 +32,21 @@ ElevenLabs: Transformei o roteiro em áudio natural.
 
 CapCut: Finalizei o áudio, ajustando efeitos e mixagem.
 
-📁 Estrutura de Arquivos
+Foi um processo super divertido, cada etapa me ajudou a entender melhor como a IA pode apoiar a criação de conteúdo.
 
-Prompt de Comando – Geração de Imagens/
-  capa-artistica.png
+📁 Estrutura de Pastas
 
-  capa-realista.jpg
+Cada pasta contém os arquivos gerados por cada ferramenta, organizados para facilitar a navegação e compreensão do processo:
 
-Geração de Imagens com Bing/
-  Capa Realista Bing.jpeg
+Canva
 
-  capa bing.jpeg
+Bing
 
-Geração de nomes para o Podcast/
-  Roteiro de Podcast sobre IA.txt
+ChatGPT
+
+ElevenLabs
+
+CapCut
 
 💡 Dicas e Observações
 
